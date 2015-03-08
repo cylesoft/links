@@ -2,6 +2,8 @@
 
 Pretty much exactly what it sounds like. A very simple site that lets you post links and text for safe keeping. Like bookmarks, or del.icio.us, but better.
 
+My copy of this lives at [arepository.com/of/links/](https://arepository.com/of/links/).
+
 ## installation + usage
 
 Expects PHP 5.5+ to use the password hashing functionality.
