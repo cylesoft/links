@@ -122,6 +122,7 @@ if ($current_user['loggedin'] == true) {
 	<div>
 	<p>Features not done yet, fuck you, be patient</p>
 	<ul>
+	<li>A search feature. Yeah.</li>
 	<li>Following other people? Gotta be something better to call it than that.</li>
 	<li>Export all your links as JSON or plain text.</li>
 	<li>Pagination? haha, I have over 1000 links.</li>
