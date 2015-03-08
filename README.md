@@ -4,7 +4,7 @@ Pretty much exactly what it sounds like. A very simple site that lets you post l
 
 My copy of this lives at [arepository.com/of/links/](https://arepository.com/of/links/).
 
-## installation + usage
+## Installation + Usage
 
 Expects PHP 5.5+ to use the password hashing functionality.
 
@@ -18,11 +18,11 @@ To get pretty URLs working, just use the `links-lighty.conf` configuration file 
 
 Since part of this depends on `/dev/urandom`, I don't think this'll work well on a Windows server.
 
-## user invite codes
+## User Invite Codes
 
 Right now the only way to get an invite code is to manually add one to the database's `invite_codes` table.
 
-## to do / stuff / notes
+## To Do / Stuff / Notes
 
 I'd like to recreate this project with React and Laravel and other stuff like that, since this is so simple.
 

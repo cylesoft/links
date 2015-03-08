@@ -80,67 +80,69 @@ if ($current_user['loggedin'] == true) {
 	<div><p><a href="/of/links/login/">log in</a> or <a href="/of/links/register/">sign up</a></p></div>
 	
 	<div>
-	<p>we make our own trails across the internet, link by link.</p>
-	<p>these trails can act as bibliographies. or adventures. or whatever.</p>
-	<p>this is meant to be just link pasting with some neat options.</p>
-	<p>this is not meant to be a promotional tool. this is not twitter. anything but.</p>
-	<p>check out <a href="/of/links/by/cyle/">my posts</a> as an example</p>
+	<p>We make our own trails across the internet, link by link.</p>
+	<p>These trails can act as bibliographies, or adventures, or whatever.</p>
+	<p>This is meant to be just link pasting with some neat options.</p>
+	<p>This is not meant to be a promotional tool. This is not twitter; anything but.</p>
+	<p>Check out <a href="/of/links/by/cyle/">my links</a> as an example.</p>
 	</div>
 	
 	<div>
-	<p>i built this mostly because</p>
+	<p>I built this mostly because...</p>
 	<ul>
-	<li>i can, so why not</li>
-	<li>i don't like "sharing" - i like posting</li>
-	<li>del.icio.us is dead</li>
-	<li>tumblr is too complicated</li>
-	<li>facebook is too crowded</li>
-	<li>twitter sucks for sharing links</li>
-	<li>i don't want anyone selling what links i post</li>
-	<li>i need a collection, not a profile</li>
-	<li>i read a lot on the web, and i want a way to track it</li>
-	<li>i write a lot on the web, and i want a list to cite from</li>
+	<li>I can, so why not.</li>
+	<li>I don't like "sharing" - I like posting.</li>
+	<li>del.icio.us is dead.</li>
+	<li>tumblr is too complicated.</li>
+	<li>Facebook is too crowded.</li>
+	<li>Twitter sucks for sharing links.</li>
+	<li>Apple's "Reading List" is a joke.</li>
+	<li>I don't want anyone selling what links I post.</li>
+	<li>I need a collection, not a profile.</li>
+	<li>I read a lot on the web, and I want a way to keep track of it.</li>
+	<li>I write a lot on the web, and I want a list to cite from.</li>
 	</ul>
 	</div>
 	
 	<div>
-	<p>features, lol</p>
+	<p>Features, lol</p>
 	<ul>
-	<li>post some fucking links</li>
-	<li>unlimited links per post</li>
-	<li>post some text, i don't care</li>
-	<li>no dumb url shortening or tracking</li>
-	<li>no goddamn character limit</li>
-	<li>mark post as private "for your eyes only"</li>
-	<li>disable seeing certain options (like timestamps)</li>
-	<li>you get a page of your public links</li>
-	<li>you get an rss feed, too, holy shit</li>
+	<li>Post some fucking links.</li>
+	<li>Unlimited links per post.</li>
+	<li>Post some text, I don't care.</li>
+	<li>No dumb url shortening or tracking.</li>
+	<li>No goddamn character limit.</li>
+	<li>Mark post as private "for your eyes only".</li>
+	<li>Disable seeing certain options (like timestamps).</li>
+	<li>You get a page of your public links.</li>
+	<li>You get an RSS feed, too, holy shit.</li>
 	</ul>
 	</div>
 	
 	<div>
-	<p>features not done yet, fuck you</p>
+	<p>Features not done yet, fuck you, be patient</p>
 	<ul>
-	<li>following other people? gotta be something better to call it than that</li>
-	<li>export all your links as xml or json or plain text</li>
-	<li>pagination? haha</li>
+	<li>Following other people? Gotta be something better to call it than that.</li>
+	<li>Export all your links as JSON or plain text.</li>
+	<li>Pagination? haha, I have over 1000 links.</li>
 	</ul>
 	</div>
 	
 	<div>
-	<p>features that'll never happen</p>
+	<p>Features that'll never happen:</p>
 	<ul>
-	<li>selling anything anyone does here</li>
-	<li>a public timeline of random people's bullshit</li>
-	<li>a "spotlight" or "featured" section</li>
-	<li>tags might never happen, i dunno</li>
-	<li>liking. +1-ing. upvoting.</li>
+	<li>Selling anything anyone does here.</li>
+	<li>A public timeline of random people's bullshit.</li>
+	<li>A "spotlight" or "featured" section.</li>
+	<li>Tags might never happen, I dunno.</li>
+	<li>Liking. +1-ing. Upvoting. No.</li>
 	</ul>
 	</div>
 	
 	<div>
-	<p>if you want to use it, cool. if not, that's fine too.</p>
-	<p>who made this? i'm <a href="http://cylegage.com/">cyle</a></p>
+	<p>If you want to use it, cool. If not, that's fine too.</p>
+	<p>Who made this? I'm <a href="http://cylegage.com/">cyle</a></p>
+	<p>I'm hesitant to give you an invite code unless I know you. The source code is <a href="https://github.com/cylesoft/links">here</a>.</p>
 	</div>
 	<?php
 }
