@@ -20,6 +20,9 @@ function init_links() {
 			delete_buttons[i].addEventListener('click', delete_action);
 		}
 	}
+	if (document.getElementsByClassName('content_input') != undefined) {
+		document.getElementsByClassName('content_input')[0].focus();
+	}
 }
 
 function option_ts_action(e) {
